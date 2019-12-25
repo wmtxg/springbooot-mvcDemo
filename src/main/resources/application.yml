@@ -1,0 +1,8 @@
+server:
+  port: 8761
+
+spring:
+  mvc:
+    view:
+      prefix: /html/
+      suffix: .html 
